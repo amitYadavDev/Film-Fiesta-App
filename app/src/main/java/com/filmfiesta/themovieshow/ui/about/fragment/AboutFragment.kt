@@ -84,3 +84,87 @@ class AboutFragment : Fragment() {
         applicationAdapter?.submitList(viewModel.getAboutApplication(requireContext()))
     }
 
+    private fun showToastyBasedOnType(type: String) {
+        when (type) {
+            LINKEDIN -> {
+                val urlLink = "https://linkedin.com/"
+                try {
+                    val intent = Intent(Intent.ACTION_VIEW, Uri.parse(urlLink))
+                    startActivity(
+                        Intent.createChooser(
+                            intent,
+                            "Open with:"
+                        )
+                    )
+                } catch (e: Exception) {
+                    requireContext().showSuccessToastyIcon("Please install browser app")
+                }
+            }
+
+            GOOGLE_PLAY -> {
+                val versionLink = "yet to publish"
+                try {
+                    val intent = Intent(Intent.ACTION_VIEW, Uri.parse(versionLink))
+                    startActivity(
+                        Intent.createChooser(
+                            intent,
+                            "Open with:"
+                        )
+                    )
+                } catch (e: Exception) {
+                    requireContext().showSuccessToastyIcon("Please install browser app")
+                }
+            }
+
+            GITHUB -> {
+                val githubLink = "https://github.com/amitDev"
+                try {
+                    val intent = Intent(Intent.ACTION_VIEW, Uri.parse(githubLink))
+                    startActivity(
+                        Intent.createChooser(
+                            intent,
+                            "Open with:"
+                        )
+                    )
+                } catch (e: Exception) {
+                    requireContext().showSuccessToastyIcon("Please install browser app")
+                }
+            }
+
+            EMAIL -> {
+                val email = "amit.the@gmail.com"
+                try {
+                    val intentEmail = Intent(
+                        Intent.ACTION_SENDTO,
+                        Uri.fromParts("mailto", email, null)
+                    ).apply {
+                        putExtra(Intent.EXTRA_EMAIL, email)
+                        putExtra(Intent.EXTRA_SUBJECT, "")
+                        putExtra(Intent.EXTRA_TEXT, "")
+                    }
+                    startActivity(
+                        Intent.createChooser(
+                            intentEmail,
+                            "Send email"
+                        )
+                    )
+                } catch (e: Exception) {
+                    requireContext().showSuccessToastyIcon("Please install email app")
+                }
+            }
+        }
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        _binding = null
+        applicationAdapter = null
+    }
+
+    companion object {
+        const val LINKEDIN = "linkedIn"
+        const val GOOGLE_PLAY = "google_play"
+        const val GITHUB = "github"
+        const val EMAIL = "email"
+    }
+}
