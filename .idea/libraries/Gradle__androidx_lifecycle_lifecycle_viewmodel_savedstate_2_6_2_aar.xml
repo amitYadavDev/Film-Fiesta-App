@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/84821401b0c9a4f31b7f07b0c1f38294/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/84821401b0c9a4f31b7f07b0c1f38294/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/84821401b0c9a4f31b7f07b0c1f38294/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate/2.6.2/2d3519967d6ad4b68af5219e6a2bf015c1ed6287/lifecycle-viewmodel-savedstate-2.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

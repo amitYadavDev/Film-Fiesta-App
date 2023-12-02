@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.6.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/9b6f537660b1404f339641470c86a343/transformed/jetified-lifecycle-runtime-ktx-2.6.2/res" />
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/9b6f537660b1404f339641470c86a343/transformed/jetified-lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/9b6f537660b1404f339641470c86a343/transformed/jetified-lifecycle-runtime-ktx-2.6.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-ktx/2.6.2/6ad3251adb760573a519eebbdfb90fd2384b185d/lifecycle-runtime-ktx-2.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

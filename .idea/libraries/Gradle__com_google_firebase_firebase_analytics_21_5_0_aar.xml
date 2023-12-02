@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-analytics:21.5.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/e40e6753c7b57930b4a8e17510135a3e/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/e40e6753c7b57930b4a8e17510135a3e/transformed/jetified-firebase-analytics-21.5.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-analytics/21.5.0/fb10b466d50fe41dab56aaf738339ac74fe027f/firebase-analytics-21.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

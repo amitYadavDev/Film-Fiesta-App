@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-service:2.6.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/4b0665433bb6a58cc8fab067a5f6ee84/transformed/jetified-lifecycle-service-2.6.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/4b0665433bb6a58cc8fab067a5f6ee84/transformed/jetified-lifecycle-service-2.6.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/4b0665433bb6a58cc8fab067a5f6ee84/transformed/jetified-lifecycle-service-2.6.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-service/2.6.2/4ca770db272d0bd0589950ebc66961eeeaee4218/lifecycle-service-2.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

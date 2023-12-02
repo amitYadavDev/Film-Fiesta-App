@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/splashScreenFragment">
+
+    <fragment
+        android:id="@+id/splashScreenFragment"
+        android:name="com.filmfiesta.themovieshow.ui.splashscreen.SplashScreenFragment"
+        android:label="fragment_splash_screen"
+        tools:layout="@layout/fragment_splash_screen" >
+        <action
+            android:id="@+id/action_splashScreenFragment_to_movieFragment"
+            app:destination="@id/movieFragment" />
+        <action
+            android:id="@+id/action_splashScreenFragment_to_tvShowFragment"
+            app:destination="@id/tvShowFragment" />
+        <action
+            android:id="@+id/action_splashScreenFragment_to_favoriteFragment"
+            app:destination="@id/favoriteFragment" />
+        <action
+            android:id="@+id/action_splashScreenFragment_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+        <action
+            android:id="@+id/action_splashScreenFragment_to_discoverMovieFragment"
+            app:destination="@id/discoverMovieFragment" />
+        <action
+            android:id="@+id/action_splashScreenFragment_to_discoverTvShowFragment"
+            app:destination="@id/discoverTvShowFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/movieFragment"
+        android:name="com.filmfiesta.themovieshow.ui.movie.fragment.MovieFragment"
+        android:label="Movies"
+        tools:layout="@layout/fragment_movie" >
+        <action
+            android:id="@+id/action_movieFragment_to_detailMovieFragment"
+            app:destination="@id/detailMovieFragment" />
+        <action
+            android:id="@+id/action_movieFragment_to_detailMovieFragment2"
+            app:destination="@id/detailMovieFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/tvShowFragment"
+        android:name="com.filmfiesta.themovieshow.ui.tvshow.fragment.TvShowFragment"
+        android:label="TV Shows"
+        tools:layout="@layout/fragment_tv_show" >
+        <action
+            android:id="@+id/action_tvShowFragment_to_detailTvShowFragment"
+            app:destination="@id/detailTvShowFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.filmfiesta.themovieshow.ui.favorite.fragment.FavoriteFragment"
+        android:label="Favorite"
+        tools:layout="@layout/fragment_favorite" />
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.filmfiesta.themovieshow.ui.about.fragment.AboutFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/detailTvShowFragment"
+        android:name="com.filmfiesta.themovieshow.ui.detail.tvshow.fragment.DetailTvShowFragment"
+        tools:layout="@layout/fragment_detail_tv_show" />
+    <fragment
+        android:id="@+id/detailMovieFragment"
+        android:name="com.filmfiesta.themovieshow.ui.detail.movie.fragment.DetailMovieFragment"
+        android:label="fragment_detail_movie"
+        tools:layout="@layout/fragment_detail_movie" />
+    <fragment
+        android:id="@+id/discoverMovieFragment"
+        android:name="com.filmfiesta.themovieshow.ui.discover.DiscoverMovieFragment"
+        android:label="fragment_discover_movie"
+        tools:layout="@layout/fragment_discover_movie" >
+        <action
+            android:id="@+id/action_discoverMovieFragment_to_detailMovieFragment"
+            app:destination="@id/detailMovieFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/discoverTvShowFragment"
+        android:name="com.filmfiesta.themovieshow.ui.discover.DiscoverTvShowFragment"
+        android:label="fragment_discover_tv_show"
+        tools:layout="@layout/fragment_discover_tv_show" >
+        <action
+            android:id="@+id/action_discoverTvShowFragment_to_detailTvShowFragment"
+            app:destination="@id/detailTvShowFragment" />
+    </fragment>
+
+</navigation>

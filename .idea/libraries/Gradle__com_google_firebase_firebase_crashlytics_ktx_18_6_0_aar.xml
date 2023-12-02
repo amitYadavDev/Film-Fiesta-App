@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-crashlytics-ktx:18.6.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/29ce98efaa0e42d09688232b65f740b6/transformed/jetified-firebase-crashlytics-ktx-18.6.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/29ce98efaa0e42d09688232b65f740b6/transformed/jetified-firebase-crashlytics-ktx-18.6.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-crashlytics-ktx/18.6.0/a597e1abe2e23b4dd7627a58d59746875788169c/firebase-crashlytics-ktx-18.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

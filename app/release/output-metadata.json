@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.taufik.themovieshow",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 125,
+      "versionName": "1.25",
+      "outputFile": "TheMovieShow_v1.25(125)_202311251640-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

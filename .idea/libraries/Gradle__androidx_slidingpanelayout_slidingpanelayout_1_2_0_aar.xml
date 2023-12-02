@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/50c7411db57d6a188d7c6abf39d6579b/transformed/slidingpanelayout-1.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/50c7411db57d6a188d7c6abf39d6579b/transformed/slidingpanelayout-1.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/50c7411db57d6a188d7c6abf39d6579b/transformed/slidingpanelayout-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/50c7411db57d6a188d7c6abf39d6579b/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.slidingpanelayout/slidingpanelayout/1.2.0/6cdf3fd538b995c58d602da7114a92fdeeff92ac/slidingpanelayout-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

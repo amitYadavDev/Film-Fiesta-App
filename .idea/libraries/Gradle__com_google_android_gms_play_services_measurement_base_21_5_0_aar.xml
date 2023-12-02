@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-base:21.5.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/00b76a1a386d63a5ba244d94d45fe808/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/00b76a1a386d63a5ba244d94d45fe808/transformed/jetified-play-services-measurement-base-21.5.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-base/21.5.0/fb10b466d50fe41dab56aaf738339ac74fe027f/play-services-measurement-base-21.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

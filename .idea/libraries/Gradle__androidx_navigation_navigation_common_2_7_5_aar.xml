@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-common:2.7.5@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/2fce08de940a4409b410f6dc854fcba2/transformed/navigation-common-2.7.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/2fce08de940a4409b410f6dc854fcba2/transformed/navigation-common-2.7.5/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/2fce08de940a4409b410f6dc854fcba2/transformed/navigation-common-2.7.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-common/2.7.5/cfbe65cc8db08afda8440e3b246102f31ae213aa/navigation-common-2.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

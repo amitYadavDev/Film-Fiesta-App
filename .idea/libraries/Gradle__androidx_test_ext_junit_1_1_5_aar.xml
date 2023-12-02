@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.ext:junit:1.1.5@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/49b6c1f1421d90663e3898c8064b2c68/transformed/jetified-junit-1.1.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/49b6c1f1421d90663e3898c8064b2c68/transformed/jetified-junit-1.1.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.5/ee5294c4eb3c3b3ba1d1b0a347ee5d902b1748ee/junit-1.1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.5/e59336d689cf66c42c13a8505fbd83826163431f/junit-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
