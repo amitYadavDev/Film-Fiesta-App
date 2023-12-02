@@ -161,5 +161,10 @@ class AboutFragment : Fragment() {
         applicationAdapter = null
     }
 
-
+    companion object {
+        const val LINKEDIN = "linkedIn"
+        const val GOOGLE_PLAY = "google_play"
+        const val GITHUB = "github"
+        const val EMAIL = "email"
+    }
 }
