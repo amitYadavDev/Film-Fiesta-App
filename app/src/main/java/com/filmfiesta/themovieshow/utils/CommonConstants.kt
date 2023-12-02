@@ -17,5 +17,5 @@ object CommonConstants {
     const val QUERY_Q = "query"
     const val QUERY_MOVIE_ID = "movie_id"
     const val QUERY_TV_SHOW_ID = "tv_id"
-    const val API_KEY = "52a0a3d8502b0a07690898096ed25ef7"
+    const val API_KEY = "apikey"
 }
