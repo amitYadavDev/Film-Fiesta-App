@@ -25,3 +25,5 @@ Film Fiesta App is an Android catalogue app with plenty of movies and tv shows c
 - Favorite
 - About author and about application
 
+- Screenshots
+
