@@ -26,6 +26,8 @@ Film Fiesta App is an Android catalogue app with plenty of movies and tv shows c
 - About author and about application
 
 ### Screenshots
+![7](https://github.com/amitYadavDev/Film-Fiesta-App/assets/45551012/bb5321e6-4feb-4752-aba5-fadf9d4049ae)
+
 
 ![1](https://github.com/amitYadavDev/Film-Fiesta-App/assets/45551012/e33e2992-1a4c-4fc0-a610-d4e684303b6c)
 
